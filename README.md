@@ -72,6 +72,8 @@ curl --location --request POST 'http://localhost:8000/api/get-user-details' \
 --data-raw '["andrew","fabpot","nelsonic","taylorotwell","egoist","ornicar","bebraw","HugoGiraudel","alexcrichton","jonathanong"]'
 ```
 
+## Location of logs
+storage/logs/
 
 ## License
 
